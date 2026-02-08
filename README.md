@@ -1,5 +1,5 @@
-
-<img align="right" alt="profile" width="180" src="YOUR_IMAGE_LINK_HERE"/>
+<img src="https://komarev.com/ghpvc/?username=timothyasuke-prog&style=for-the-badge" />
+<img align="center" alt="profile" width="200" src="TJ.jpeg"/>
 
 
 
@@ -30,6 +30,10 @@
 <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"></a>
 <a href="mailto:timothyasuke@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 <a href="mailto:tjjune956@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://twet.link/tjjune"><img src="https://img.shields.io/badge/Tweet%20Me-black?style=for-the-badge&logo=x"></a>
+v
+
+
 
 </p>
 
@@ -72,6 +76,8 @@
 <img src="https://komarev.com/ghpvc/?username=timothyasuke-prog&style=for-the-badge"/>
 </p>
 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timothyasuke-prog&show_icons=true&theme=tokyonight)
 
 
 
@@ -80,6 +86,11 @@
 - 🔗 [Project 2](https://github.com/timothyasuke-prog/project2) — 
 - 🔗 [Project 3](https://github.com/timothyasuke-prog/project3) — 
 
+<p>
+  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/main/left.gif" style="float:left; margin-right:10px;" width="250" />
+  Hi! This is my awesome profile README. Here is my work showcased on the right:
+  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/main/right.gif" style="float:right; margin-left:10px;" width="250" />
+</p>
 
 
 
