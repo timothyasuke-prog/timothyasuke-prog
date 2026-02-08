@@ -87,9 +87,9 @@ v
 - 🔗 [Project 3](https://github.com/timothyasuke-prog/project3) — 
 
 <p>
-  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/main/left.gif" style="float:left; margin-right:10px;" width="250" />
+  <img src="https://raw.githubusercontent.com/timothyasuke-prog/timothyasuke-prog/main/Bitcoin Code GIF by KeepCoding.gif" style="float:left; margin-right:10px;" width="250" />
   Hi! This is my awesome profile README. Here is my work showcased on the right:
-  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/main/right.gif" style="float:right; margin-left:10px;" width="250" />
+  <img src="https://raw.githubusercontent.com/timothyasuke-prog/timothyasuke-prog/main/right.gif" style="float:right; margin-left:10px;" width="250" />
 </p>
 
 
