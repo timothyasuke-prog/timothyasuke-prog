@@ -26,7 +26,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/www.linkedin.com/in/asuke-timothy-9588793a9"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/www.linkedin.com/in/https://www.linkedin.com/in/asuke-timothy-9588793a9?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"></a>
 <a href="mailto:timothyasuke@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 <a href="mailto:tjjune956@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
@@ -89,7 +89,7 @@ v
 <p>
   <img src="https://raw.githubusercontent.com/timothyasuke-prog/timothyasuke-prog/main/Bitcoin Code GIF by KeepCoding.gif" style="float:left; margin-right:10px;" width="250" />
   Hi! This is my awesome profile README. Here is my work showcased on the right:
-  <img src="https://raw.githubusercontent.com/timothyasuke-prog/timothyasuke-prog/main/right.gif" style="float:right; margin-left:10px;" width="250" />
+  <img src="https://raw.githubusercontent.com/timothyasuke-prog/timothyasuke-prog/main/viceland GIF by CYBERWAR.gif" style="float:right; margin-left:10px;" width="250" />
 </p>
 
 
