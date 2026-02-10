@@ -15,7 +15,7 @@
 
 
 ## 👨‍💻 About Me
-- 🔭 Currently working on: MY PORTFOLIO WEBSITE / VOICE AI ASSISTANT
+- 🔭 Currently working on: PROJECT MANAGEMENT SYSTEM 💯
 - 🌱 Learning: PYTHON/HTML/CSS/JS/FLASK
 - 👯 Open to collaboration on: Startups & Open Source
 - 💬 Ask me about: Node.js, Python, HTML
@@ -50,8 +50,8 @@ v
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=timothyasuke-prog &show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothyasuke-prog &layout=compact&theme=tokyonight"/>
 </p>
 
 
@@ -82,7 +82,7 @@ v
 
 
 ## 🚀 Featured Projects
-- 🔗 [Project 1](https://github.com/timothyasuke-prog/project1) — 
+- 🔗 [Project 1](https://github.com/timothyasuke-prog/project1) — https://my-portfolio-h0d0.onrender.com
 - 🔗 [Project 2](https://github.com/timothyasuke-prog/project2) — 
 - 🔗 [Project 3](https://github.com/timothyasuke-prog/project3) — 
 
