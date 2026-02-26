@@ -61,7 +61,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/YOUR_USERNAME.png" width="150" style="border-radius: 50%; border: 3px solid #36BCF7;" />
+  <img src="https://github.com/tj.jpg" width="150" style="border-radius: 50%; border: 3px solid #36BCF7;" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=timothyasuke-prog&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </div>
