@@ -2,6 +2,7 @@
 
 # Hi there, I'm ASUKE TIMOTHY 👋
 ### 🚀 Full Stack Developer | UI/UX Enthusiast | Open Source Contributor
+![NowMine Streak](https://nowmine.site/api/badge/@admin)
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
 
